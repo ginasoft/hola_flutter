@@ -1,6 +1,6 @@
 # 👋 Hola Flutter — Proyecto de práctica
 
-Pequeña app de **Flutter** para practicar los conceptos básicos del framework.
+App de **Flutter** para practicar los conceptos básicos del framework.
 
 ## 🧠 ¿Qué es Flutter?
 **Flutter** es un *framework* de Google para crear aplicaciones **nativas** desde un único código fuente en **Dart**. Permite compilar para **Android**, **iOS**, **Web** y **Escritorio**, con hot reload para iterar rápido en la UI.
@@ -23,4 +23,5 @@ Practicar:
 - Widgets básicos (`Scaffold`, `AppBar`, `Text`, `Column/Row`).
 - Estado simple con `setState`.
 - Navegación entre pantallas.
+
 
